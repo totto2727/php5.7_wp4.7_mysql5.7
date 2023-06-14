@@ -1,0 +1,6 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:docker-library/wordpress.git
+[submodule "mysql-docker"]
+	path = mysql-docker
+	url = https://github.com/mysql/mysql-docker
